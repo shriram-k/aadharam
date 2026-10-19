@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "browser": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@playwright/mcp@latest",
+        "--headless",
+        "--isolated",
+        "--output-dir",
+        "${CLAUDE_PROJECT_DIR}/.aadharam/evidence"
+      ]
+    }
+  }
+}

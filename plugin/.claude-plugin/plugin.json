@@ -1,0 +1,12 @@
+{
+  "name": "aadharam",
+  "displayName": "Aadharam",
+  "version": "0.1.0",
+  "description": "Manual-QA agents that verify Jira acceptance criteria in a real browser, run curl and shell checks, capture proof screenshots, and report back to Jira.",
+  "author": { "name": "Aadharam contributors" },
+  "homepage": "https://github.com/your-org/aadharam",
+  "repository": "https://github.com/your-org/aadharam",
+  "license": "MIT",
+  "keywords": ["qa", "testing", "jira", "playwright", "agents"],
+  "hooks": "./hooks/hooks.json"
+}
